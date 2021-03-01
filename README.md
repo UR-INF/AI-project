@@ -16,21 +16,12 @@
 
    <details>
        <summary>Ekran główny </summary>
-	Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-
 ![alt text](https://gallery.dpcdn.pl/imgc/UGC/34567/g_-_960x640_-_s_x20131110194052_0.jpg)
            <p>Przedstawiono ...</p>
    </details>
 	<details>
        <summary>Ekran ...</summary>
-			![alt text](https://gallery.dpcdn.pl/imgc/UGC/34567/g_-_960x640_-_s_x20131110194052_0.jpg)
+	![alt text](https://gallery.dpcdn.pl/imgc/UGC/34567/g_-_960x640_-_s_x20131110194052_0.jpg)
            <p>Czego dotyczy?</p>
    </details>
          

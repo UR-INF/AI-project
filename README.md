@@ -1,4 +1,4 @@
-# Projekt zaliczeniowy z przedmiotu Aplikacje internetowe
+# Projekt zaliczeniowy z przedmiotu: Aplikacje internetowe
 
 # Temat projektu: 
 ## Skład grupy: 
@@ -16,7 +16,16 @@
 
    <details>
        <summary>Ekran główny </summary>
-			![alt text](https://gallery.dpcdn.pl/imgc/UGC/34567/g_-_960x640_-_s_x20131110194052_0.jpg)
+	Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+
+![alt text](https://gallery.dpcdn.pl/imgc/UGC/34567/g_-_960x640_-_s_x20131110194052_0.jpg)
            <p>Przedstawiono ...</p>
    </details>
 	<details>

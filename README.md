@@ -28,8 +28,8 @@
            <p>Czego dotyczy?</p>
    </details>
          
-### Baza danych
-####	Diagram ERD
+### Baza danych  
+####	Diagram ERD   https://ibb.co/ryd1Wgm
 ####	Skrypt do utworzenia struktury bazy danych
 
 ## Wykorzystane technologie

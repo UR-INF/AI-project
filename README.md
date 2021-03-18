@@ -29,7 +29,7 @@
    </details>
          
 ### Baza danych
-####	Diagram ERD
+####	Diagram ERD  https://ibb.co/ryd1Wgm
 ####	Skrypt do utworzenia struktury bazy danych
 
 ## Wykorzystane technologie
